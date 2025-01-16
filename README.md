@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate **web developer** with a backgrou
 - [Note-Taking App](#) - A note-taking app built with React and hooks for efficient data management.
 
 ## 📫 Get in Touch
-- Email: [nilesh@example.com](mailto:nilesh@example.com)
-- LinkedIn: [Nilesh Kumar Sahoo](https://www.linkedin.com/in/nilesh-sahoo)
+- Email: [nilesh@example.com](mailto:nilesh199721@gmail.com)
+- LinkedIn: [Nilesh Kumar Sahoo](https://www.linkedin.com/in/nileshkssahoo/)
 
 Feel free to check out my repositories, contribute to them, or connect with me!
