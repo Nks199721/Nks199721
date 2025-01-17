@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm a passionate **web developer** with a backgrou
 
 ## 🔧 Projects
 - [React Portfolio](https://react-portfolio-gamma-pearl.vercel.app/) - A personal portfolio website built using React.
-- [Note-Taking App](#) - A note-taking app built with React and hooks for efficient data management.
 
 ## 📫 Get in Touch
 - Email: [nilesh@example.com](mailto:nilesh199721@gmail.com)
