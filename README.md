@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate **web developer** with a backgrou
 - [React Portfolio](https://react-portfolio-gamma-pearl.vercel.app/) - A personal portfolio website built using React.
 
 ## 📫 Get in Touch
-- Email: [nilesh@example.com](mailto:nilesh199721@gmail.com)
+- Email: [nilesh199721@gmail.com](mailto:nilesh199721@gmail.com)
 - LinkedIn: [Nilesh Kumar Sahoo](https://www.linkedin.com/in/nileshkssahoo/)
 
 Feel free to check out my repositories, contribute to them, or connect with me!
